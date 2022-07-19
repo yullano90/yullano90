@@ -7,7 +7,7 @@
 > [![javascript](https://img.shields.io/badge/Javascript-ES6-green.svg)](https://www.linkedin.com/in/yullano90)
 > [![python](https://img.shields.io/badge/Python-3.1+-blue.svg)](https://www.linkedin.com/in/yullano90)
 > [![r](https://img.shields.io/badge/R-4.3+-blue.svg)](https://www.linkedin.com/in/yullano90)
-> [![csharp](https://img.shields.io/badge/CSharp-.NET%205.0+-blue.svg)](https://www.linkedin.com/in/yullano90)
+> [![csharp](https://img.shields.io/badge/CSharp-.NET%204.5+-blue.svg)](https://www.linkedin.com/in/yullano90)
 
 <!-- </p>
 <p align="center">
